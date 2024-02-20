@@ -16,7 +16,8 @@
   },
   "scripts": {
     "start": "webpack serve --open --mode=development",
-    "build": "webpack --progress --mode production"
+    "build": "react-scripts build"
+
   },
   "eslintConfig": {
     "extends": [
@@ -53,7 +54,9 @@
     "webpack-dev-server": "^4.15.1"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "homepage": "https://soyeya.github.io/ezpz/",
+  "basename" : "https://soyeya.github.io/ezpz/"
 
 
 }
