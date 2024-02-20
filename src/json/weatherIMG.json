@@ -1,0 +1,11 @@
+{
+
+    "SKY" : [
+
+        "sunny.png",
+        "sunnyclouded.png",
+        "clouded.png",
+        "cloudedSnow.png",
+        "rainning.png"
+    ]
+}

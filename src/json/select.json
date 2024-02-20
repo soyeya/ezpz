@@ -1,0 +1,79 @@
+{
+
+    "weather" : [
+        
+           {"title" : "" , "value" : ""},
+           {"title" : "종로구" , "value" : "Jongno-gu"},
+           {"title" : "중구" , "value" : "Jung-gu"},
+           {"title" : "용산구" , "value" : "Yongsan-gu"},
+           {"title" : "성동구" , "value" : "Seongdong-gu"},
+           {"title" : "광진구" , "value" : "Gwangjin-gu"},
+           {"title" : "동대문구" , "value" : "Dongdaemun-gu"},
+           {"title" : "중랑구" , "value" : "Jungnang-gu"},
+           {"title" : "성북구" , "value" : "Seongbuk-gu"},
+           {"title" : "강북구" , "value" : "Gangbuk-gu"},
+           {"title" : "도봉구" , "value" : "Dobong-gu"},
+           {"title" : "노원구" , "value" : "Nowon-gu"},
+           {"title" : "은평구" , "value" : "Eunpyeong-gu"},
+           {"title" : "서대문구" , "value" : "Seodaemun-gu"},
+           {"title" : "마포구" , "value" : "Mapo-gu"},
+           {"title" : "양천구" , "value" : "Yangcheon-gu"},
+           {"title" : "강서구" , "value" : "Gangseo-gu"},
+           {"title" : "구로구" , "value" : "Guro-gu"},
+           {"title" : "금천구" , "value" : "Geumcheon-gu"},
+           {"title" : "영등포구" , "value" : "Yeongdeungpo-gu"},
+           {"title" : "동작구" , "value" : "Dongjak-gu"},
+           {"title" : "관악구" , "value" : "Gwanak-gu"},
+           {"title" : "서초구" , "value" : "Seocho-gu"},
+           {"title" : "강남구" , "value" : "Gangnam-gu"},
+           {"title" : "송파구" , "value" : "Songpa-gu"},
+           {"title" : "강동구" , "value" : "Gangdong-gu"}
+    ],
+
+    "subway" : [
+            
+            {"title" : "" , "value" : ""},
+            {"title" : "1호선" , "value" : "line01"},
+            {"title" : "2호선" , "value" : "line02"},
+            {"title" : "3호선" , "value" : "line03"},
+            {"title" : "4호선" , "value" : "line04"},
+            {"title" : "5호선" , "value" : "line05"},
+            {"title" : "6호선" , "value" : "line06"},
+            {"title" : "7호선" , "value" : "line07"},
+            {"title" : "8호선" , "value" : "line08"},
+            {"title" : "9호선" , "value" : "line09"}
+
+    ],
+    "cloths" : [
+            
+        {"title" : "" , "value" : ""},
+        {"title" : "동대문구" , "value" : "Dongdaemun-gu"},
+        {"title" : "서대문구" , "value" : "Seodaemun-gu"},
+        {"title" : "동작구" , "value" : "Dongjak-gu"},
+        {"title" : "관악구" , "value" : "Gwanak-gu"},
+        {"title" : "구로구" , "value" : "Guro-gu"},
+        {"title" : "영등포구" , "value" : "Yeongdeungpo-gu"},
+        {"title" : "광진구" , "value" : "Gwangjin-gu"},
+        {"title" : "양천구" , "value" : "Yangcheon-gu"},
+        {"title" : "종로구" , "value" : "Jongno-gu"},
+        {"title" : "금천구" , "value" : "Geumcheon-gu"}
+
+], 
+        "battery" : [
+                
+                {"title" : "" , "value" : ""},
+                {"title" : "강남구" , "value" : "Gangnam-gu"},
+                {"title" : "성북구" , "value" : "Seongbuk-gu"},
+                {"title" : "동작구" , "value" : "Dongjak-gu"},
+                {"title" : "광진구" , "value" : "Gwangjin-gu"},
+                {"title" : "관악구" , "value" : "Gwanak-gu"},
+                {"title" : "송파구" , "value" : "Songpa-gu"},
+                {"title" : "중랑구" , "value" : "Jungnang-gu"},
+                {"title" : "동대문구" , "value" : "Dongdaemun-gu"},
+                {"title" : "강서구" , "value" : "Gangseo-gu"},
+                {"title" : "영등포구" , "value" : "Yeongdeungpo-gu"},
+                {"title" : "성동구" , "value" : "Seongdong-gu"},
+                {"title" : "마포구" , "value" : "Mapo-gu"}
+
+        ]
+}

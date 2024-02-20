@@ -1,0 +1,27 @@
+{
+    
+  
+  "transport" : [
+
+        {"title" : "지하철" , "href" : "/subway" , "img" : "subway.png"},
+        {"title" : "버스" , "href" : "/bus" , "img" : "bus.png"},
+        {"title" : "도로" , "href" : "#" , "img" : "road.png"} 
+   ],
+    
+  "recycling" : [
+
+        {"title" : "헌옷수거함" , "href" : "/cloths" , "img" : "cloths.png"},
+        {"title" : "폐형광등 • 폐건전지함" , "href" : "/battery" , "img" : "battery.png"}
+
+],
+    
+  "restaurant" : [
+
+        {"title" : "한식" , "href" : "/korean" , "img" : "koreanFood.png"},
+        {"title" : "일식" , "href" : "/japan" , "img" : "japaneseFood.png"},
+        {"title" : "중식" , "href" : "/china" , "img" : "chinseFood.png"},
+        {"title" : "양식" , "href" : "/american" , "img" : "americanFood.png"}
+
+]
+
+}
